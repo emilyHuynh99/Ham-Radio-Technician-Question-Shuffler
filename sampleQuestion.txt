@@ -1,0 +1,15 @@
+T2C06 (C)
+Which of the following is an accepted practice to get the immediate attention of a net control station when reporting an emergency?
+A. Repeat "SOS" three times followed by the call sign of the reporting station
+B. Press the push-to-talk button three times
+C. Begin your transmission by saying "Priority" or "Emergency" followed by your call sign
+D. Play a pre-recorded emergency alert tone followed by your call sign
+~~
+
+T1A01 (C) [97.1]
+Which of the following is a purpose of the Amateur Radio Service as stated in the FCC rules and regulations?
+A. Providing personal radio communications for as many citizens as possible
+B. Providing communications for international non-profit organizations
+C. Advancing skills in the technical and communication phases of the radio art
+D. All of these choices are correct 
+~~
